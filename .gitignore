@@ -1,3 +1,6 @@
 datasets/chat.csv
 datasets/stream.csv
 .vscode/settings.json
+my_data.db
+chat.db
+stream.db
